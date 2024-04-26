@@ -1,0 +1,105 @@
+{
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "Idioma",
+    "TRANSLATION_INFO_SETTINGS": "La traducción aún está en progreso. Verás una combinación de Inglés y el idioma seleccionado.<br> Puedes ayudarnos a traducir leyendo el<guideLink> tutorial</guideLink> y luego usando nuestro<editorLink> Editor web</editorLink> ."
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "CREATE": "Crear",
+      "REMOVE": "Eliminar",
+      "DELETE": "Borrar",
+      "EDIT": "Editar",
+      "DUPLICATE": "Duplicar",
+      "APPLY": "Confirmar",
+      "UPDATE": "Actualizar",
+      "VIEW": "Ver",
+      "HIDE": "Ocultar"
+    }
+  },
+  "SETTINGS": {
+    "ACCOUNT": {
+      "PROFILE_TITLE": "Perfil",
+      "MY_PROFILE": "Mi perfil",
+      "PROFILE": {
+        "KEYWORDS": "Perfil de Usuario personal"
+      },
+      "IMPORT_EXPORT_TITLE": "Importar y Exportar",
+      "EXPORT_IMPORT": {
+        "KEYWORDS": "Exportar Copia de Seguridad Exportar a Roam Dynalist Logseq Notion Evernote Obsidian"
+      },
+      "NAVIGATION_TITLE": "Navegación",
+      "NAVIGATION": {
+        "KEYWORDS": "Exportar y hacer una Copia de Seguridad Papelera Ver Rem eliminados Importar Base de Datos Ver todas las tarjetas Descargar una Copia de Seguridad Diaria Configuración avanzada Eliminar todos los Rem"
+      },
+      "AUTHENTICATION_TITLE": "Autentificación",
+      "AUTHENTICATION": {
+        "KEYWORDS": "Salir Salir Login con Google Añadir Desconectar Sign in Registrarse"
+      },
+      "ADVANCED_TITLE": "Ajustes avanzados",
+      "ADVANCED": {
+        "KEYWORDS": "Soporte Reconstruir Buscar Reparar Error"
+      },
+      "DANGER_ZONE_TITLE": "Zona de Peligro",
+      "PRIVACY_NOTE": "Privacidad: lea nuestra<policyLink> política de privacidad</policyLink> , o cambie su configuración en nuestro<hubLink> Centro de privacidad</hubLink> .",
+      "DANGER_ZONE": {
+        "TITLE": "Zona de Peligro",
+        "KEYWORDS": "sincronizar registro eliminar cuenta restablecer tutorial progreso restablecer onboarding configuración avanzada de la cuenta"
+      },
+      "NOTIFICATIONS": {
+        "TITLE": "Notificaciones de Racha en el Móvil",
+        "DESCRIPTION": "Envía notificaciones de recordatorios al móvil sobre tu racha diaria de tarjetas. Los recordatorios llegan a las  18.00 h todos los días, en tu zona horaria local."
+      },
+      "SYNCING": {
+        "TITLE": "Sincronizando",
+        "KEYWORDS": "Forzar la Sincronización de Imágenes y PDF"
+      },
+      "VERSION": {
+        "TITLE": "Versión de la Aplicación",
+        "KEYWORDS": "versión "
+      },
+      "SUPPORT": {
+        "TITLE": "Soporte",
+        "KEYWORDS": "soporte ticket ejecutar ayuda"
+      },
+      "PRIVACY": {
+        "TITLE": "Privacidad",
+        "KEYWORDS": "privacidad"
+      }
+    },
+    "FLASHCARDS": {
+      "AI": {
+        "ENABLE": {
+          "TITLE": "Habilitar funciones de IA",
+          "DESCRIPTION": "Utilice el autocompletado, las calificaciones y la generación de tarjetas basados en IA. Se enviarán fragmentos de sus notas a OpenAI cuando utilice muchas funciones de IA. Encuentre la política de privacidad de OpenAI en https://openai.com/policies/privacy-policy."
+        },
+        "OPENAI_KEY": {
+          "TITLE": "Clave API de OpenAI",
+          "DESCRIPTION": "Si excede su cuota mensual de solicitudes de IA, puede registrarse para obtener una clave API en https://platform.openai.com/account/api-keys e introducirla aquí pagando por su propia cuenta. Tenga en cuenta que esta es una función beta y podría eliminarse en cualquier momento."
+        }
+      },
+      "DAILY_TARGET": {
+        "MAXIMUM_DAILY_TARGET": {
+          "TITLE": "Objetivo diario máximo",
+          "DESCRIPTION": "Limite la cantidad de tarjetas que RemNote le pedirá que practique para alcanzar su objetivo diario en este valor."
+        },
+        "TODAYS_TARGET": "El objetivo de hoy:",
+        "TODAYS_TARGET_EXPLANATION": "RemNote intenta establecer su objetivo diario de modo que, si alcanza el objetivo todos los días, complete todas las tarjetas que deben revisarse durante los próximos 7 días. Sin embargo, el objetivo diario nunca superará el máximo establecido anteriormente."
+      },
+      "GENERAL": {
+        "RESET_ALL": {
+          "TITLE": "Restablecer todas las configuraciones de tarjetas a los valores predeterminados",
+          "DESCRIPTION": "Restablezca todas las configuraciones de las tarjetas a sus valores predeterminados.",
+          "CONFIRM_MESSAGE": "¿Está seguro de que desea restablecer todas las configuraciones de tarjetas a sus valores predeterminados?"
+        },
+        "NEW_CARDS_PER_DAY": {
+          "TITLE": "Máximo de tarjetas nuevas por día",
+          "DESCRIPTION": "Incluya como máximo esta cantidad de tarjetas recién creadas en su cola de tarjetas diarias. De esta manera, las nuevas tarjetas se añadirán a la cola a un ritmo diario constante, en lugar de hacerlo de una sola vez."
+        },
+        "STALE_CARDS_PER_DAY": {
+          "TITLE": "Número máximo de tarjetas obsoletas por día",
+          "DESCRIPTION": "Reintroduzca cada día y como máximo, esta cantidad de tarjetas obsoletas en su cola de tarjetas. Las tarjetas obsoletas son aquellas que se retienen temporalmente en la cola porque no las has estudiado en mucho tiempo y volver a aprenderlas todas a la vez sería agotador."
+        }
+      }
+    }
+  }
+}
